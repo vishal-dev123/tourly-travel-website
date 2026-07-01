@@ -2,38 +2,38 @@
 
 <img src="./readme-images/project-logo.png" width="180"/>
 
-<h2 align="center">Travel Website</h2>
+ <div align="center">
 
-A modern and fully responsive **Travel Website** built using **HTML, CSS, and JavaScript**. The website provides an attractive interface for exploring popular destinations, tour packages, travel services, and booking trips.
+# 🌍 Tourly - Travel Website
 
-<a href="https://your-live-demo-link.netlify.app/"><strong>➥ Live Demo</strong></a>
+A modern and fully responsive **Travel Website** built using **HTML, CSS, and JavaScript**. The website provides users with an engaging interface to explore travel destinations, tour packages, and travel services.
 
+### 🚀 Live Demo
+
+👉 https://vishal-dev123.github.io/tourly-travel-website/
 </div>
 
-<br />
+---
 
-## 📸 Demo Screenshots
+## 📖 About the Project
 
-### Desktop View
+Tourly is a responsive travel website designed to provide users with an attractive and user-friendly experience while exploring travel destinations and holiday packages.
 
-![Travel Website Desktop Demo](./readme-images/desktop.png)
-
-### Mobile View
-
-![Travel Website Mobile Demo](./readme-images/mobile.png)
+The project focuses on clean UI design, responsive layouts, smooth animations, and modern web development practices.
 
 ---
 
 ## ✨ Features
 
-- 🌍 Modern and Responsive Design
-- 📱 Mobile-Friendly Layout
-- 🏖️ Popular Destination Section
+- 🌍 Fully Responsive Design
+- 🏖️ Beautiful Hero Section
 - ✈️ Tour Packages
-- 📷 Beautiful Image Gallery
-- ⭐ Customer Testimonials
+- 🏝️ Popular Destinations
+- 📸 Image Gallery
+- ⭐ Customer Reviews
 - 📞 Contact Section
 - 🎨 Smooth Animations
+- 📱 Mobile Friendly
 - ⚡ Fast Loading
 
 ---
@@ -50,18 +50,13 @@ A modern and fully responsive **Travel Website** built using **HTML, CSS, and Ja
 
 ## 📂 Project Structure
 
-```text
-Travel-Website/
+```
+Tourly/
 │
 ├── assets/
 │   ├── css/
 │   ├── js/
 │   └── images/
-│
-├── readme-images/
-│   ├── desktop.png
-│   ├── mobile.png
-│   └── project-logo.png
 │
 ├── index.html
 ├── README.md
@@ -70,34 +65,74 @@ Travel-Website/
 
 ---
 
-## 📋 Prerequisites
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](./readme-images/home.png)
+
+### 🌍 Travel Packages
+
+![Packages](./readme-images/packages.png)
+
+### 📱 Responsive Design
+
+![Responsive](./readme-images/mobile.png)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
 
 Before running this project, make sure you have:
 
 - Git installed
-- A modern web browser (Chrome, Edge, Firefox, Safari)
+- A modern web browser
+- VS Code (Recommended)
 
 ---
 
-## 🚀 Run Locally
+## ▶️ Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/vishal-dev123/travel-website.git
+git clone https://github.com/vishal-dev123/tourly-travel-website.git
 ```
 
 Go to the project folder
 
 ```bash
-cd travel-website
+cd tourly-travel-website
 ```
 
 Open `index.html` in your browser
 
 OR
 
-Use VS Code Live Server.
+Use the **Live Server** extension in VS Code.
+
+---
+
+## 🌐 Deployment
+
+This project can be deployed using:
+
+- GitHub Pages
+- Netlify
+- Vercel
+
+---
+
+## 🎯 Future Improvements
+
+- Online Booking System
+- User Authentication
+- Payment Gateway
+- Search & Filter Destinations
+- Dark Mode
+- Travel Blog Section
 
 ---
 
@@ -105,24 +140,33 @@ Use VS Code Live Server.
 
 **Vishal Saini**
 
-B.Tech (Information Technology)
+🎓 B.Tech (Information Technology)
 
 Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
 
-GitHub: https://github.com/vishal-dev123
+### Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+- GitHub: https://github.com/vishal-dev123
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please ⭐ star this repository.
 
 ---
 
 ## 📄 License
 
-This project is created for learning, educational, and portfolio purposes.
+This project is open-source and available for educational and portfolio purposes.
 
 ---
 
-## ⭐ Support
+<div align="center">
 
-If you found this project helpful, please give it a ⭐ on GitHub.
+Made with ❤️ by Vishal Saini
+
+</div>lpful, please give it a ⭐ on GitHub.
 
 Happy Coding! 🚀
