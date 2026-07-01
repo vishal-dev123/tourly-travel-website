@@ -1,4 +1,3 @@
- 
 
 <img src="./readme-images/project-logo.png" width="180"/>
 
@@ -147,8 +146,7 @@ Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
 ### Connect with Me
 
 - GitHub: https://github.com/vishal-dev123
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
-
+- LinkedIn:  https://www.linkedin.com/in/vishal-saini-9ba61728a/?skipRedirect=true
 ---
 
 ## ⭐ Show Your Support
