@@ -20,7 +20,7 @@ aria-label = Open Menu
 
 alt = Tourly logo
 
-aria-label = Close Menu
+aria-label = Close Menu 
 <ion-icon name="close-outline"></ion-icon>
 
 home
