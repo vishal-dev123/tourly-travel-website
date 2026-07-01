@@ -1,56 +1,128 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
+ 
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+<img src="./readme-images/project-logo.png" width="180"/>
 
-  <h2 align="center">Tourly - Travel website</h2>
+<h2 align="center">Travel Website</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+A modern and fully responsive **Travel Website** built using **HTML, CSS, and JavaScript**. The website provides an attractive interface for exploring popular destinations, tour packages, travel services, and booking trips.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+<a href="https://your-live-demo-link.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+## 📸 Demo Screenshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+### Desktop View
 
-### Prerequisites
+![Travel Website Desktop Demo](./readme-images/desktop.png)
 
-Before you begin, ensure you have met the following requirements:
+### Mobile View
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![Travel Website Mobile Demo](./readme-images/mobile.png)
 
-### Run Locally
+---
 
-To run **Tourly** locally, run this command on your git bash:
+## ✨ Features
 
-Linux and macOS:
+- 🌍 Modern and Responsive Design
+- 📱 Mobile-Friendly Layout
+- 🏖️ Popular Destination Section
+- ✈️ Tour Packages
+- 📷 Beautiful Image Gallery
+- ⭐ Customer Testimonials
+- 📞 Contact Section
+- 🎨 Smooth Animations
+- ⚡ Fast Loading
 
-```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Font Awesome
+
+---
+
+## 📂 Project Structure
+
+```text
+Travel-Website/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── readme-images/
+│   ├── desktop.png
+│   ├── mobile.png
+│   └── project-logo.png
+│
+├── index.html
+├── README.md
+└── LICENSE
 ```
 
-Windows:
+---
+
+## 📋 Prerequisites
+
+Before running this project, make sure you have:
+
+- Git installed
+- A modern web browser (Chrome, Edge, Firefox, Safari)
+
+---
+
+## 🚀 Run Locally
+
+Clone the repository
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/vishal-dev123/travel-website.git
 ```
 
-### Contact
+Go to the project folder
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+```bash
+cd travel-website
+```
 
-### License
+Open `index.html` in your browser
 
-This project is **free to use** and does not contains any license.
+OR
+
+Use VS Code Live Server.
+
+---
+
+## 👨‍💻 Developed By
+
+**Vishal Saini**
+
+B.Tech (Information Technology)
+
+Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+
+GitHub: https://github.com/vishal-dev123
+
+LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+
+---
+
+## 📄 License
+
+This project is created for learning, educational, and portfolio purposes.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please give it a ⭐ on GitHub.
+
+Happy Coding! 🚀
